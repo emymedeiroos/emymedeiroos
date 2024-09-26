@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Guerreira combatente de bugs com Java & Selenium<br>🚀 Aspirante a Engenharia de Software<br>💥 Defensora da qualidade dos produtos e metodologias<br>🌱 Cultivo e tratamento de dados<br>🔍 Analista de Testes | Apaixonada por garantir a excelência em cada entrega<br>⚙️ Experiência em automação de testes e criação de cenários de teste<br>📊 Focada em análise de requisitos e melhoria contínua de processos</p>
+<p align="left">💻 Guerreira combatente de bugs com Java & Selenium<br>💥 Defensora da qualidade dos produtos e metodologias<br>🌱 Cultivo e tratamento de dados<br>🚀 Aspirante a Engenharia de Software<br>🔍 Analista de Testes | Apaixonada por garantir a excelência em cada entrega<br>⚙️ Experiência em automação de testes e criação de cenários de teste<br>📊 Focada em análise de requisitos e melhoria contínua de processos</p>
 
 ###
 
