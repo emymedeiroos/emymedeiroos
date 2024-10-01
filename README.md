@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🌈 Emilly in the Dev World ✨</h2>
+<h2 align="left">🌈 Emilly in the Tech World ✨</h2>
 
 ###
 
