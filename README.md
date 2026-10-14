@@ -1,48 +1,56 @@
-<p align="left"></p>
 
-###
+# 🌈 Emilly in the Tech World ✨
 
-<h2 align="left">🌈 Emilly in the Tech World ✨</h2>
+### 💻 QA Analyst | Software Testing | QA Automation
 
-###
+💥 Defensora da qualidade de software e da melhoria contínua  
+🌱 Sempre aprendendo novas tecnologias e boas práticas de testes  
+🚀 Pós-graduada em Engenharia de Software  
+🔍 Analista de Testes | Apaixonada por garantir a qualidade em cada entrega  
+⚙️ Foco em automação de testes, cenários de teste e qualidade de software  
+📊 Experiência em análise de requisitos e testes funcionais, regressivos, integração
 
-<p align="left">💻 Guerreira combatente de bugs com Playwrigth<br>💥 Defensora da qualidade dos produtos e metodologias<br>🌱 Cultivo e tratamento de dados<br>🚀 Aspirante a Engenharia de Software<br>🔍 Analista de Testes | Apaixonada por garantir a excelência em cada entrega<br>⚙️ Experiência em automação de testes e criação de cenários de teste<br>📊 Focada em análise de requisitos e melhoria contínua de processos</p>
+---
 
-###
+## 🛠️ Tecnologias e ferramentas
 
-<h2 align="left"></h2>
+### 🧪 Automação e qualidade de software
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="42" alt="Playwright" title="Playwright" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42" alt="Postman" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="42" alt="SonarQube" title="SonarQube" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="42" alt="Grafana" title="Grafana" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+<img src="https://cdn.simpleicons.org/claude/D97757" height="42" alt="Claude AI" title="Claude AI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle" title="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="GitLab" title="GitLab CI/CD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" alt="AWS" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="42" alt="Jira" title="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="42" alt="Azure DevOps" title="Azure DevOps" />
+</p>
 
-###
+---
 
-<div align="left">
-</div>
+## 🎯 Atualmente focada em
 
-###
+- 🧪 Automação de testes com Playwright
+- 🔎 Testes funcionais, regressivos, integração
+- 📝 Cenários de teste com BDD/Gherkin
+- 🤖 IA para otimização de processos de qualidade
+- ⚙️ CI/CD com GitHub Actions para execução automatizada de testes
+- 🚀 Projetos práticos para evoluir a qualidade de software
 
-<p align="left">🚧 profile in refinement 🚧</p>
+---
+
+## 📂 Projetos
+
+🚧 **Building my QA Automation portfolio** 🚧
+
 
 ###
